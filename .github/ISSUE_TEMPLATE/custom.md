@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+name: stakeholder
+about: stakeholder
+title: stakeholder
+labels: stakeholder
 assignees: ''
 
 ---
